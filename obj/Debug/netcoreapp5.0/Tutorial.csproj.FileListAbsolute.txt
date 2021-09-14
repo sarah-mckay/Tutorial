@@ -1,0 +1,15 @@
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.csproj.AssemblyReference.cache
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.AssemblyInfoInputs.cache
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.AssemblyInfo.cs
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.csproj.CoreCompileInputs.cache
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/Tutorial.deps.json
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/Tutorial.runtimeconfig.json
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/Tutorial.runtimeconfig.dev.json
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/Tutorial.dll
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/ref/Tutorial.dll
+/Users/sarahmckay/Documents/Code/Tutorial/bin/Debug/netcoreapp5.0/Tutorial.pdb
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.dll
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/ref/Tutorial.dll
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.pdb
+/Users/sarahmckay/Documents/Code/Tutorial/obj/Debug/netcoreapp5.0/Tutorial.genruntimeconfig.cache
